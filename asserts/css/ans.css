@@ -1,0 +1,20 @@
+
+body{
+	
+	background:url("../img/f.jpg");
+	background-size:cover;
+	font-family:Arial;
+	
+}
+
+h1,h5{
+color:red;}
+
+.card{
+font-size: 18px;
+}
+
+.que {
+	font-size: 20px;
+	font-weight: bolder;
+}
